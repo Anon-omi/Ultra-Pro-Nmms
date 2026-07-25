@@ -7,15 +7,15 @@
     "allowOffline": true
   },
     {
-    "id": "94cbe346894d3d34",
+    "id": "94cbe34683d34",
     "username": "anon",
     "password": "123",
-    "expiresAt": "2027-07-26",
+    "expiresAt": "2026-07-26",
     "allowOffline": false
   },
     {
-    "id": "23",
-    "username": "anon",
+    "id": "94cbe346894d3d34",
+    "username": "Trail",
     "password": "123",
     "expiresAt": "2026-07-26",
     "allowOffline": false
